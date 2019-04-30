@@ -1,3 +1,4 @@
+hexo g
 git push
 ifconfig
 sudo phddns restart
