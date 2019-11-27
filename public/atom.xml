@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="dwfault.ml/"/>
   <updated>2019-11-23T15:59:59.664Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>dwfault.ml/</id>
   
   <author>
     <name>dwfault</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>XCode编译WebKit JavaScriptCore问题解决</title>
-    <link href="http://yoursite.com/2019/11/23/XCode%E7%BC%96%E8%AF%91WebKit%20JavaScriptCore%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/"/>
-    <id>http://yoursite.com/2019/11/23/XCode编译WebKit JavaScriptCore问题解决/</id>
+    <link href="dwfault.ml/2019/11/23/XCode%E7%BC%96%E8%AF%91WebKit%20JavaScriptCore%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/"/>
+    <id>dwfault.ml/2019/11/23/XCode编译WebKit JavaScriptCore问题解决/</id>
     <published>2019-11-23T15:59:59.664Z</published>
     <updated>2019-11-23T15:59:59.664Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>afl-fuzz暴力效率流实践</title>
-    <link href="http://yoursite.com/2019/11/23/afl-fuzz%E6%9A%B4%E5%8A%9B%E6%95%88%E7%8E%87%E6%B5%81%E5%AE%9E%E8%B7%B5/"/>
-    <id>http://yoursite.com/2019/11/23/afl-fuzz暴力效率流实践/</id>
+    <link href="dwfault.ml/2019/11/23/afl-fuzz%E6%9A%B4%E5%8A%9B%E6%95%88%E7%8E%87%E6%B5%81%E5%AE%9E%E8%B7%B5/"/>
+    <id>dwfault.ml/2019/11/23/afl-fuzz暴力效率流实践/</id>
     <published>2019-11-23T15:59:59.664Z</published>
     <updated>2019-11-23T15:59:59.664Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>CVE-2019-8518 FTL LICM GetByVal hoisted OOB</title>
-    <link href="http://yoursite.com/2019/11/23/CVE-2019-8518%20FTL%20LICM%20GetByVal%20hoisted%20OOB/"/>
-    <id>http://yoursite.com/2019/11/23/CVE-2019-8518 FTL LICM GetByVal hoisted OOB/</id>
+    <link href="dwfault.ml/2019/11/23/CVE-2019-8518%20FTL%20LICM%20GetByVal%20hoisted%20OOB/"/>
+    <id>dwfault.ml/2019/11/23/CVE-2019-8518 FTL LICM GetByVal hoisted OOB/</id>
     <published>2019-11-23T15:59:59.648Z</published>
     <updated>2019-11-23T15:59:59.648Z</updated>
     
@@ -83,8 +83,8 @@
   
   <entry>
     <title>WebKit JavaScriptCore的特殊调试技巧</title>
-    <link href="http://yoursite.com/2019/11/23/WebKit%20JavaScriptCore%E7%9A%84%E7%89%B9%E6%AE%8A%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7/"/>
-    <id>http://yoursite.com/2019/11/23/WebKit JavaScriptCore的特殊调试技巧/</id>
+    <link href="dwfault.ml/2019/11/23/WebKit%20JavaScriptCore%E7%9A%84%E7%89%B9%E6%AE%8A%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7/"/>
+    <id>dwfault.ml/2019/11/23/WebKit JavaScriptCore的特殊调试技巧/</id>
     <published>2019-11-23T15:59:59.648Z</published>
     <updated>2019-11-23T15:59:59.648Z</updated>
     
@@ -104,8 +104,8 @@
   
   <entry>
     <title>CVE-2018-4233 WebKit DFG JIT CreateThis SideEffect type confusion</title>
-    <link href="http://yoursite.com/2019/11/23/CVE-2018-4233%20WebKit%20DFG%20JIT%20CreateThis%20SideEffect%20type%20confusion/"/>
-    <id>http://yoursite.com/2019/11/23/CVE-2018-4233 WebKit DFG JIT CreateThis SideEffect type confusion/</id>
+    <link href="dwfault.ml/2019/11/23/CVE-2018-4233%20WebKit%20DFG%20JIT%20CreateThis%20SideEffect%20type%20confusion/"/>
+    <id>dwfault.ml/2019/11/23/CVE-2018-4233 WebKit DFG JIT CreateThis SideEffect type confusion/</id>
     <published>2019-11-23T15:59:59.504Z</published>
     <updated>2019-11-23T15:59:59.504Z</updated>
     
@@ -125,8 +125,8 @@
   
   <entry>
     <title>CVE-2018-4162 CompareEq side effect</title>
-    <link href="http://yoursite.com/2019/11/23/CVE-2018-4162%20CompareEq%20side%20effect/"/>
-    <id>http://yoursite.com/2019/11/23/CVE-2018-4162 CompareEq side effect/</id>
+    <link href="dwfault.ml/2019/11/23/CVE-2018-4162%20CompareEq%20side%20effect/"/>
+    <id>dwfault.ml/2019/11/23/CVE-2018-4162 CompareEq side effect/</id>
     <published>2019-11-23T15:59:59.488Z</published>
     <updated>2019-11-23T15:59:59.488Z</updated>
     
@@ -146,8 +146,8 @@
   
   <entry>
     <title>35c3CTF WebKid writeup heuristic transition</title>
-    <link href="http://yoursite.com/2019/11/23/35c3CTF%20WebKid%20writeup%20heuristic%20transition/"/>
-    <id>http://yoursite.com/2019/11/23/35c3CTF WebKid writeup heuristic transition/</id>
+    <link href="dwfault.ml/2019/11/23/35c3CTF%20WebKid%20writeup%20heuristic%20transition/"/>
+    <id>dwfault.ml/2019/11/23/35c3CTF WebKid writeup heuristic transition/</id>
     <published>2019-11-23T15:59:59.472Z</published>
     <updated>2019-11-23T15:59:59.472Z</updated>
     
